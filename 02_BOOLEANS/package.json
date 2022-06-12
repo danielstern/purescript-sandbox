@@ -1,0 +1,13 @@
+{
+  "name": "ps-getting-started",
+  "version": "1.0.0",
+  "description": "Files and directories which form a template for PureScript projects.",
+  "main": "Main.purs",
+  "scripts": {
+    "test": "spago run"
+  },
+  "devDependencies": {
+    "purescript": "^0.15.0",
+    "spago": "^0.20.9"
+  }
+}
